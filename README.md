@@ -1,4 +1,4 @@
-# Python_basics
+# Python_basics week 1
 catatan dan latihan
 Coursera online course - Python basic by University of Michigan (week 1)
 
